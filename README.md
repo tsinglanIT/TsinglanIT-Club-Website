@@ -1,4 +1,6 @@
-# demo
+# 清澜山信息技术交流实践俱乐部 TICEC 官网项目运行方案
+
+在此之前，请先下载好NodeJs长期开发版
 
 ## Project setup
 ```
@@ -22,3 +24,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Lanbin](http://lanbinovo.cn).
